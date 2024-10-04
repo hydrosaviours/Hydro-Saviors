@@ -27,15 +27,24 @@ Empowering users to take real-world action in their communities.
 
    Pollution Cleanup: Use NASA data to clean polluted areas, earn coins, and engage with eco-friendly factories.
 
+   ![MainFeatures](READMEpng/menu.png)
+
 ## Other features include:                                                                                                                                                                                      
    ### Chat Section:  
-   Collaborate with others to solve water pollution challenges.                                                                                                                            
+   Collaborate with others to solve water pollution challenges. 
+   ![ChatScreen](READMEpng/chatSection.png)                                                                                                                           
    ### Leaderboard: 
-   Track your contributions and earn rewards for your efforts.                                                                                                                                   
+   Track your contributions and earn rewards for your efforts.
+   ![LocalLeaderBoard](READMEpng/LocalLeaderBoard.png)   
+   ![GlobalLeaderBoard](READMEpng/LeaderBoard.png)                                                                                                                                  
    ### Profile Section:
-   Personalize your profile, track leaderboard positions, and display earned badges.                                                                                                              
+   Personalize your profile, track leaderboard positions, and display earned badges.  
+    ![GlobalLeaderBoard](READMEpng/LeaderBoard.png)       
+
    ### AI Chatbot:
-   Powered by NASA’s data, users can ask questions about water pollution and get instant responses.                                                                                                   
+   Powered by NASA’s data, users can ask questions about water pollution and get instant responses.      
+    ![AIchatBot](READMEpng/AIchatBot.png)   
+                                                                                          
    for more detalis about our project soluiton and goal please download this file()                                                                                                     
 
 ## 🤝 Contributing
