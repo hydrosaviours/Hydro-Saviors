@@ -27,22 +27,31 @@ Empowering users to take real-world action in their communities.
 
    Pollution Cleanup: Use NASA data to clean polluted areas, earn coins, and engage with eco-friendly factories.
 
+### MainFeatures
    ![MainFeatures](READMEpng/menu.png)
 
 ## Other features include:                                                                                                                                                                                      
    ### Chat Section:  
    Collaborate with others to solve water pollution challenges. 
+
+### ChatScreen
    ![ChatScreen](READMEpng/chatSection.png)                                                                                                                           
    ### Leaderboard: 
-   Track your contributions and earn rewards for your efforts.   
+   Track your contributions and earn rewards for your efforts.
+
+### GlobalLeaderBoard      
    ![GlobalLeaderBoard](READMEpng/LeaderBoard.png)                                                                                                                                  
    ### Profile Section:
    Personalize your profile, track leaderboard positions, and display earned badges.  
-    ![GlobalLeaderBoard](READMEpng/profile.png)       
+    
+### UserProfile
+   ![GlobalLeaderBoard](READMEpng/profile.png)       
 
    ### AI Chatbot:
-   Powered by NASA’s data, users can ask questions about water pollution and get instant responses.      
-    ![AIchatBot](READMEpng/AIchatBot.png)   
+   Powered by NASA’s data, users can ask questions about water pollution and get instant responses.     
+
+### AIChatBot
+   ![AIchatBot](READMEpng/AIchatBot.png)   
                                                                                           
    for more detalis about our project soluiton and goal please download this file()                                                                                                     
 
