@@ -34,12 +34,11 @@ Empowering users to take real-world action in their communities.
    Collaborate with others to solve water pollution challenges. 
    ![ChatScreen](READMEpng/chatSection.png)                                                                                                                           
    ### Leaderboard: 
-   Track your contributions and earn rewards for your efforts.
-   ![LocalLeaderBoard](READMEpng/LocalLeaderBoard.png)   
+   Track your contributions and earn rewards for your efforts.   
    ![GlobalLeaderBoard](READMEpng/LeaderBoard.png)                                                                                                                                  
    ### Profile Section:
    Personalize your profile, track leaderboard positions, and display earned badges.  
-    ![GlobalLeaderBoard](READMEpng/LeaderBoard.png)       
+    ![GlobalLeaderBoard](READMEpng/profile.png)       
 
    ### AI Chatbot:
    Powered by NASA’s data, users can ask questions about water pollution and get instant responses.      
