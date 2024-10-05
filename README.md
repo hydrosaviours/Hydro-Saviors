@@ -53,7 +53,7 @@ Empowering users to take real-world action in their communities.
    AIChatBot
    ![AIchatBot](READMEpng/AIchatBot.png)   
                                                                                           
-   for more detalis about our project soluiton and goal please download this file()                                                                                                     
+                                                                                                    
 
 ## 🤝 Contributing
 Fork the repository.                                                                                                                                                                                           
